@@ -1,5 +1,5 @@
 # Blockchain
-This repo contains the basic to advance concepts of etherum blockchain the repo contents follows the book by the name of <b><p align='center'>[![Packt Conference](https://hub.packtpub.com/wp-content/uploads/2023/08/put-generative-ai-to-work-packt.png)](https://packt.link/JGIEY)</p></b>.
+This repo contains the basic to advance concepts of etherum blockchain in solidity programming language.
 
 ## What is solidity programming language?
 Solidity is a contract-oriented language designed to compile code for the Ethereum Virtual Machine (EVM). This repo is all about the basic concepts of Solidity programming to build smart contracts for Ethereum and blockchain from the ground up. It will enable you to write robust, secure, object-oriented contracts that extend blockchain with business functionality.
